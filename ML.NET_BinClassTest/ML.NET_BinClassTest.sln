@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML.NET_BinClassTest.WebApplication", "ML.NET_BinClassTest.WebApplication\ML.NET_BinClassTest.WebApplication.csproj", "{644AA214-33BE-43A7-9890-DEF905EA6E55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML.NET_BinClassTest.library", "ML.NET_BinClassTest.library\ML.NET_BinClassTest.library.csproj", "{27046A28-F8CD-4B72-BC21-BDF892D5ED14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML.NET_BinClassTest.trainer", "ML.NET_BinClassTest.trainer\ML.NET_BinClassTest.trainer.csproj", "{F07E4389-52A1-4CC1-AF68-9DF219035B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644AA214-33BE-43A7-9890-DEF905EA6E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644AA214-33BE-43A7-9890-DEF905EA6E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644AA214-33BE-43A7-9890-DEF905EA6E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644AA214-33BE-43A7-9890-DEF905EA6E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27046A28-F8CD-4B72-BC21-BDF892D5ED14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27046A28-F8CD-4B72-BC21-BDF892D5ED14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27046A28-F8CD-4B72-BC21-BDF892D5ED14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27046A28-F8CD-4B72-BC21-BDF892D5ED14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F07E4389-52A1-4CC1-AF68-9DF219035B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07E4389-52A1-4CC1-AF68-9DF219035B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07E4389-52A1-4CC1-AF68-9DF219035B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07E4389-52A1-4CC1-AF68-9DF219035B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B82A2413-1C8E-4996-B451-C3C96338D5E0}
+	EndGlobalSection
+EndGlobal
