@@ -1,13 +1,13 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
-
+for details on configuring this project to bundle and minify static web assets. 
+*/
 a.navbar-brand {
   white-space: normal;
   text-align: center;
   word-break: break-all;
 }
 
-/* Provide sufficient contrast against white background */
+ Provide sufficient contrast against white background 
 a {
   color: #0366d6;
 }
@@ -51,15 +51,15 @@ button.accept-policy {
   line-height: inherit;
 }
 
-/* Sticky footer styles
--------------------------------------------------- */
+ /*Sticky footer styles
+--------------------------------------------------*/ 
 html {
   position: relative;
   min-height: 100%;
 }
 
 body {
-  /* Margin bottom by footer height */
+   /*Margin bottom by footer height*/ 
   margin-bottom: 60px;
 }
 .footer {
@@ -67,5 +67,37 @@ body {
   bottom: 0;
   width: 100%;
   white-space: nowrap;
-  line-height: 60px; /* Vertically center the text there */
+  line-height: 60px;  /*Vertically center the text there*/ 
 }
+
+
+/*html, body {
+    height: 100%;
+    background-color: #3e3e3e;
+    color: white;
+}
+
+.container {
+    height: 100%;
+}
+
+h1 {
+    color: gold;
+}
+
+#formContent {
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    background: #2e2e2e;
+    padding: 30px;
+    width: 90%;
+    position: relative;
+    -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    text-align: center;
+    height: 450px;
+}
+
+.tableLabel {
+    font-weight: bold;
+}*/
