@@ -9,4 +9,8 @@
     <PackageReference Include="Microsoft.ML.FastTree" Version="1.6.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ML.NET_BinClassTest.library\ML.NET_BinClassTest.library.csproj" />
+  </ItemGroup>
+
 </Project>

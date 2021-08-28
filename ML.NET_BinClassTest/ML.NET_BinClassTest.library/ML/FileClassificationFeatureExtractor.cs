@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace ML.NET_BinClassTest.library.ML
 {
-    class FileClassificationFeatureExtractor
+    public class FileClassificationFeatureExtractor
     {
         private void ExtractFolder(string folderPath, string outputFile)
         {
